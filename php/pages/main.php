@@ -23,7 +23,6 @@
         }
         .slider__img {               /* 화면 보이는 구간 */
             width: 100%;
-            height: 794px;
             position: relative;
             overflow: hidden;
         }
